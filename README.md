@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<a href="https://raw.githubusercontent.com/Naisha-D/web102_prework/main/Prework_video.mp4" target="_blank">
+<a href="https://github.com/Naisha-D/web102_prework/blob/main/video.mp4" target="_blank">
   <img src="http://i.imgur.com/link/to/your/gif/file.gif" alt="Video Walkthrough" />
 </a>
 
