@@ -22,8 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://drive.google.com/file/d/1AxbUwLOTJpRmn0xwC8OIWr3N7ZHqMtj4/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://raw.githubusercontent.com/Naisha-D/web102_prework/main/Prework_video.mp4" target="_blank">
+  <img src="http://i.imgur.com/link/to/your/gif/file.gif" alt="Video Walkthrough" />
+</a>
 
 GIF created with ...  
 Online Screen Recorder
