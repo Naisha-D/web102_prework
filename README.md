@@ -23,10 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://screen-recorder.com/' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1AxbUwLOTJpRmn0xwC8OIWr3N7ZHqMtj4/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 Online Screen Recorder
+(https://screen-recorder.com/)
 
 ## Notes
 
